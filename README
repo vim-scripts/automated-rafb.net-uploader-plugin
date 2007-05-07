@@ -1,0 +1,13 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1889
+
+the script is actually a perl script
+and you only have to make a minor modification to vimrc
+to be able to use it.
+what it does it is automated to go to rafb.net
+paste the current file you're editing there,and
+then as rafb.net gives you a link to the file
+the script will put it in your clipboard so you can reffer
+to where you need it.
+this script would be recommended for whoever needs to paste some code.
+you can use F5 to run the script on the current file.
+it only works on windows.
